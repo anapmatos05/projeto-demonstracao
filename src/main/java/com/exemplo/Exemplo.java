@@ -31,6 +31,8 @@ public class Exemplo {
         
         double media = (nota1 + nota2) / 2;
         
+        
+        
         System.out.println("A média final é: " + media);
         
         if (media >= 10) {
